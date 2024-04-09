@@ -1,0 +1,71 @@
+.heading{
+
+width: 100%;
+font-size: 30px;
+margin-top: 0;
+
+}
+
+.note{
+
+color: #000;
+font-size: 15px;
+
+}
+
+body{
+
+background-size: cover;
+
+}
+
+.divSpeed{
+
+    float: left;
+
+}
+
+.diskSpeedImg{
+
+border-radius: 100px;
+width: 200px;
+
+}
+
+#speed{
+
+font-size: 20px;
+
+}
+
+.divVolume{
+
+    float: right;
+
+}
+
+.diskVolumeImg{
+
+border-radius: 100px;
+width: 200px;
+
+}
+
+#volume{
+
+font-size: 20px;
+
+}
+
+.playButton{
+
+width: 130px;
+font:25px;
+
+}
+
+canvas{
+
+    border: 5px solid white;
+    border-radius:20px;
+}
